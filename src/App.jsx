@@ -1,5 +1,3 @@
-import authService from "./services/auth";
-
 function App() {
   return (
     <>
